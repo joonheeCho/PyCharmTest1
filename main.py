@@ -22,3 +22,6 @@ print(" Hello World Changed on Local")
 
 #adding updates on GitHub
 print("Hello World on GitHub Only")
+
+# Print the name of each member
+print(" Hello name 1")
